@@ -1,0 +1,2 @@
+# nosanatestnet
+Testnet
